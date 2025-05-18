@@ -1,0 +1,1 @@
+add_executable(Main "First Charapter/main.cpp")
